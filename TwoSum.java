@@ -66,7 +66,7 @@ public class TwoSum {
         int [] nums  = new int[length];
         int [] result = new int[2];
 
-        
+        sc.close();
 
         System.out.println("\nEnter the values :  ");
         for (int i =0; i<length; i++) {
